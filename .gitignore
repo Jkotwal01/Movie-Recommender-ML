@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+env/
+myfirstproject/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (if you don't want to track large files)
+*.pkl
+*.h5
+
+# Logs
+*.log
